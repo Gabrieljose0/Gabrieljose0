@@ -1,8 +1,8 @@
 ### Bem vindo ao meu perfil! Me chamo Gabriel José 👋
-<div style="margin-top:10%">
-    <p> Apaixonado por tecnologia desde criança, hoje sigo estudando com o objetivo de me tornar um desenvolvedor</p>
-</div><br>
 
+#### Apaixonado por tecnologia desde criança, hoje sigo estudando com o objetivo de me tornar um desenvolvedor
+
+<br>
 
 ### Meu Linkedin!
 
@@ -19,7 +19,7 @@
 <a href="mailto:mourasilva.gabrielj@gmail.com"> ![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
-<br><br><br>
+<br><br>
 
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieljose0&show_icons=true&theme=merko)<br>

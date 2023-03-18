@@ -1,8 +1,13 @@
-### Bem vindo! Me chamo Gabriel José 👋
+### Bem vindo ao meu perfil! Me chamo Gabriel José 👋
+
+
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jos%C3%A9-a7a476227/)
 
-<!-- [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jos%C3%A9-a7a476227/) -->
+
+<a href="mailto:mourasilva.gabrielj@gmail.com"> ![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieljose0&show_icons=true&theme=merko)
 

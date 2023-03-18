@@ -1,16 +1,21 @@
-### Hi there 👋
+### Bem vindo! Me chamo Gabriel José 👋
 
-<!--
-**Gabrieljose0/Gabrieljose0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jos%C3%A9-a7a476227/)
 
-Here are some ideas to get you started:
+<!-- [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jos%C3%A9-a7a476227/) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrieljose0&show_icons=true&theme=merko)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrieljose0&layout=compact)](https://github.com/Gabrieljose0)
+
+###Meus Conhecimentos:
+
+<div style="display: inline_block"><br/>
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+</div>

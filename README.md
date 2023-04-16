@@ -39,4 +39,6 @@
     
 </div><br>
 
+<img src="https://github.com/W3SL3YZz/W3SL3YZz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
 

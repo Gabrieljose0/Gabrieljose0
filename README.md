@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil! Me chamo Gabriel José 👋
 
-#### Apaixonado por tecnologia desde criança, hoje sigo estudando com o objetivo de me tornar um desenvolvedor
+#### Profissional em desenvolvimento Full Stack, combinando formação técnica e superior em Análise e Desenvolvimento de Sistemas. 
 
 <br>
 
